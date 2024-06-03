@@ -1,0 +1,4 @@
+baseURL = 'https://marcusames.com/'
+languageCode = 'en-us'
+title = 'Marcus Ames'
+theme = 'poison'
